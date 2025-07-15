@@ -1,5 +1,5 @@
 <img
-src="[repo_header.png](https://www.chaintrade.network/repo_header.png)"
+src="https://www.chaintrade.network/repo_header.png"
 alt="ChainTrade Blockchain"
 />
 
